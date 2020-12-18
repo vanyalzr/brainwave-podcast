@@ -17,3 +17,4 @@ papers to review:
 - Combining Nonlinear Adaptive Filtering and Signal Decomposition for Motion Artifact Removal in Wearable Photoplethysmography
 - The hipster effect: When anticonformists all look the same
 - Discrete Stochastic Modeling of Calcium Channel Dynamics
+- https://yinboc.github.io/liif/
