@@ -18,3 +18,4 @@ papers to review:
 - The hipster effect: When anticonformists all look the same
 - Discrete Stochastic Modeling of Calcium Channel Dynamics
 - https://yinboc.github.io/liif/
+- Residual Distillation: Towards Portable Deep Neural Networks without Shortcuts
