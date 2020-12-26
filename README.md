@@ -20,3 +20,4 @@ papers to review:
 - https://yinboc.github.io/liif/
 - Residual Distillation: Towards Portable Deep Neural Networks without Shortcuts
 - [FcaNet: Frequency Channel Attention Networks](https://arxiv.org/pdf/2012.11879v2.pdf)
+- [Revealing interpretable object representations from human behavior](https://arxiv.org/abs/1901.02915)
