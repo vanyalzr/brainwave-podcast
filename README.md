@@ -19,3 +19,4 @@ papers to review:
 - Discrete Stochastic Modeling of Calcium Channel Dynamics
 - https://yinboc.github.io/liif/
 - Residual Distillation: Towards Portable Deep Neural Networks without Shortcuts
+- [FcaNet: Frequency Channel Attention Networks](https://arxiv.org/pdf/2012.11879v2.pdf)
