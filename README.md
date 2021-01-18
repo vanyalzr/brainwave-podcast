@@ -1,5 +1,6 @@
 # brainwave-podcast
-util for the best yt show of all time
+
+paper list for the [YouTube channel](https://www.youtube.com/channel/UC1OUufzS2HOZ8UyGZPf3LhQ)
 
 papers to review:
 
